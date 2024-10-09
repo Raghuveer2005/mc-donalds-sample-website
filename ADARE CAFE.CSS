@@ -1,0 +1,98 @@
+@font-face {
+    font-family:myfont;
+    src: url(KGHAPPYShadows.ttf);
+}
+
+html {
+    height: 100%;
+}
+body {
+    background-color: rgb(203, 200, 13);
+    background-image: url("1PUB_bestburger_trendingnow_1-column-desktop.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+
+}
+header {
+    height: 110px;
+    text-align: center;
+
+}
+nav {
+    background-color: rgb(220, 165, 24) ;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+main {
+    height: 600px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+   
+}
+footer {
+    background-color:rgb(95, 3, 3); height: 900px;; width: 1000px; background-position: 50%;
+
+}
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.ab{
+    font-size: 18px;
+    color: rgb(233, 233, 217);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+    
+}
+
+
+.hmm{
+    font-size: 65px;
+    color: rgb(255, 255, 249);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+
+
+a {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav a{
+
+    text-decoration:wavy;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+footer p {
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.hp{
+    font-size: 8px;
+    color: yellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+     padding-left: 20px;
+     padding-right: 20px;
+}
